@@ -1,0 +1,9 @@
+name: PocketSounds
+main: AhmetDGR\PocketSounds
+api: 3.11.5
+version: 1.14
+author: AhmetDGR
+
+commands:
+  sounds:
+    description: PocketMine içerisinde bulunan ses efektleri.
